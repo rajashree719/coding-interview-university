@@ -185,7 +185,7 @@ If you want to be a reliability engineer or operations engineer, study more from
 ## Why use it?
 
 When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
-traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
+traverse a graph. If I had to code a sorting algorithm, I can tell you it wouldn't have been very good.
 Every data structure I've ever used was built into the language, and I didn't know how they worked
 under the hood at all. I've never had to manage memory unless a process I was running would give an "out of
 memory" error, and then I'd have to find a workaround. I've used a few multidimensional arrays in my life and
@@ -336,8 +336,7 @@ I haven't read these two, but they are highly rated and written by Sedgewick. He
 - [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
 - [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
 - [ ] [Open Data Structures in C++](https://opendatastructures.org/ods-cpp.pdf)
-    - Rich and detailed collection of Data Structures and Algorithms
-    - Great for first-timers
+I'll    - Great for first-timers
 
 If you have a better recommendation for C++, please let me know. Looking for a comprehensive resource.
 
@@ -383,7 +382,10 @@ A course recommended to me (haven't taken it): [Learning how to Learn](https://w
 
 ### 2. Use Flashcards
 
-To solve the problem, I made a little flashcards site where I could add flashcards of 2 types: general and code.
+To solve the problem, I made a little flashcards site where I could add flashcards of 2 types:
+1)general 
+2)code.
+
 Each card has different formatting.
 
 I made a mobile-first website, so I could review on my phone and tablet, wherever I am.
@@ -425,7 +427,10 @@ Take a break from programming problems for a half hour and go through your flash
 There are a lot of distractions that can take up valuable time. Focus and concentration are hard. Turn on some music 
 without lyrics and you'll be able to focus pretty well.
 
-## What you won't see covered
+## What you wo
+
+What you see uncovered
+
 
 These are prevalent technologies but not part of this study plan:
 
@@ -1265,7 +1270,7 @@ large drawing pad from an art store. You can sit on the couch and practice. This
 I added the pen in the photo for scale. If you use a pen, you'll wish you could erase. Gets messy quick. I use a pencil 
 and eraser.
 
-![my sofa whiteboard](https://d3j2pkmjtin6ou.cloudfront.net/art_board_sm_2.jpg)
+![my sofa whiteboard](https://d3j2pkmjtin6ou.cloudfront.net/art_boa turd_sm_2.jpg)
 
 Supplemental:
 
